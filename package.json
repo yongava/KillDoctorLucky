@@ -4,7 +4,8 @@
   "description": "A web server for hosting kill-doctor-lucky game session",
   "main": "server.js",
   "scripts": {
-    "server": "node server.js"
+    "server": "node server.js",
+    "build": "echo 'No build step required'"
   },
   "repository": {
     "type": "git",
